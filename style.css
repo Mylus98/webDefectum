@@ -41,7 +41,7 @@ header .logo img {
 }
 
 header .descargas {
-    width: 50%;
+    width: 100%;
     height: 50%;
 }
 
@@ -110,7 +110,7 @@ header .descargas span {
 }
 
 .container {
-    max-width: 100%;
+    max-width: 50%;
     margin: 0 auto;
     padding: 20px;
 }
