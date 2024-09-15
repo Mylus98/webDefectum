@@ -110,13 +110,13 @@ header .descargas span {
 }
 
 .container {
-    max-width: 100%;
+    max-width: 60%;
     margin: 0 auto;
     padding: 20px;
 }
 
 .container .bloque img {
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
 }
 
