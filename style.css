@@ -30,7 +30,7 @@ header {
 }
 
 header .logo {
-    width: 50%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -110,7 +110,7 @@ header .descargas span {
 }
 
 .container {
-    max-width: 20%;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px;
 }
