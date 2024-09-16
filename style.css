@@ -110,7 +110,7 @@ header .descargas span {
 }
 
 .container {
-    max-width: 100%;
+    max-width: 50%;
     margin: 0 auto;
     padding: 20px;
 }
@@ -134,7 +134,7 @@ footer {
 }
 
 /* Estilos para escritorio */
-@media screen and (min-width: 300px) {
+@media screen and (min-width: 600px) {
     header {
         flex-direction: row;
         justify-content: space-between;
