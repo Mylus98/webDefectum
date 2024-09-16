@@ -134,7 +134,7 @@ footer {
 }
 
 /* Estilos para escritorio */
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 300px) {
     header {
         flex-direction: row;
         justify-content: space-between;
