@@ -9,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    --opacidad-negro: 0.9;
+    --opacidad-negro: 1;
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("fondo.png");
     background-size: cover;
     background-position: center;
